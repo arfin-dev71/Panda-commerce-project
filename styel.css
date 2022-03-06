@@ -1,0 +1,13 @@
+.panda-backgound {
+  background-color: #fceceb;
+}
+.categories img {
+  width: 100px;
+}
+.panda-by-now {
+  background-color: #ff5599;
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+}
